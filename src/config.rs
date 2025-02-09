@@ -98,7 +98,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["rd.ryanan.top"];
-pub const RS_PUB_KEY: &str = "+kEJJbZpYloifnhhaeMUy43zFGJMqUd6fqU46UhZzjg=";
+pub const RS_PUB_KEY: &str = "46zEWEXPVc7LAuNr1xGJv7F7hytJLS6n70zy7vbQwBY=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
